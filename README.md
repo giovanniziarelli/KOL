@@ -10,7 +10,7 @@ The repository is organized as follows:
 
 In particular:
 
-`u_opt_KOL_#`: folders containing results of optimal controls of the quadratic OC problem with different $C_u$
+`u_opt_KOL_#`: folders containing results of optimal controls of the quadratic OC problem with different values of the regularization constant
 
 `results_ocQuadratic_cu`: folder containing results for the solution of a quadratic optimal control problem for minimizing infected
 
