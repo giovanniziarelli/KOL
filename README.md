@@ -4,9 +4,16 @@
 The source code for **DOI ARCHIVE**
 
 ##
-src: folder containing sources for training KOl-m and KOL- $\partial$
+The repository is organized as follows:
+- src: folder containing sources for training KOl-m and KOL- $\partial$
+- Other folders gathering results presented in the paper.
 
-u_opt_KOL_#: folders with optimal controls of the quadratic OC problem with different $C_u$
+In particular:
 
-results_ocQuadratic_cu: folder containing resukts figures for the solution of a quadratic optimal control problem for minimizing infected
+u_opt_KOL_#: folders containing results of optimal controls of the quadratic OC problem with different $C_u$
 
+results_ocQuadratic_cu: folder containing results for the solution of a quadratic optimal control problem for minimizing infected
+
+sensitivity_kernels: folder containing results concerning the kernel-selection process for KOL
+
+minimum_eradication_time: folder containing results of the optimal control problem for determining the minimum eradication time
