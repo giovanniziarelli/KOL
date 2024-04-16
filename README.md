@@ -10,10 +10,10 @@ The repository is organized as follows:
 
 In particular:
 
-u_opt_KOL_#: folders containing results of optimal controls of the quadratic OC problem with different $C_u$
+`u_opt_KOL_#`: folders containing results of optimal controls of the quadratic OC problem with different $C_u$
 
-results_ocQuadratic_cu: folder containing results for the solution of a quadratic optimal control problem for minimizing infected
+`results_ocQuadratic_cu`: folder containing results for the solution of a quadratic optimal control problem for minimizing infected
 
-sensitivity_kernels: folder containing results concerning the kernel-selection process for KOL
+`sensitivity_kernels`: folder containing results concerning the kernel-selection process for KOL
 
-minimum_eradication_time: folder containing results of the optimal control problem for determining the minimum eradication time
+`minimum_eradication_time`: folder containing results of the optimal control problem for determining the minimum eradication time
