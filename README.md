@@ -4,7 +4,7 @@
 The source code for **DOI ARCHIVE**
 
 ##
-src: folder containing sources for training KOl-m and KOL-$\partial$
+src: folder containing sources for training KOl-m and KOL- $\partial$
 
 u_opt_KOL_#: folders with optimal controls of the quadratic OC problem with different $C_u$
 
