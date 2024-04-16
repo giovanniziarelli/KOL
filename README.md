@@ -5,7 +5,7 @@ The source code for **DOI ARCHIVE**
 
 ##
 The repository is organized as follows:
-- src: folder containing sources for training KOl-m and KOL- $\partial$
+- 'src': folder containing sources for training KOl-m and KOL- $\partial$
 - Other folders gathering results presented in the paper.
 
 In particular:
